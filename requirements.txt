@@ -1,3 +1,4 @@
 jupyterlab==2.0.1
 pandas==1.0.3
 seaborn
+requests
